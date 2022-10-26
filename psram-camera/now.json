@@ -1,0 +1,9 @@
+{
+    "proname": "psram-camera",
+    "version": "1.0.0",
+    "git-url-download": "https://api.github.com/repos/iHaibaraAi/esp32-github/contents/psram-camera/ota-bin/ota-v-1-0-0.bin",
+    "download-md5": "7815696ECBF1C96E6894B779456D330E",
+    "update-message": "update function one",
+    "other-message": "nullptr",
+    "audience": "psram-camera-10032"
+}
